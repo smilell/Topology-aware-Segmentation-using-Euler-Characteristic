@@ -140,15 +140,7 @@ pip install -r requirements.txt
 pip install -U git+https://github.com/shizuo-kaji/CubicalRipser_3dim
 ```
 
-
-
-# todo
-
-- test environment
-- dataset preprocess code
-- give dataset split txt
-
-- print a training and test log file. also the training args and parameters
-- set up config, which really works
+## Contact
+If you have any questions, please feel free to email liu.li20@imperial.ac.uk
 
 
