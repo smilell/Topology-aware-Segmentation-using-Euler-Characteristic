@@ -1,0 +1,11 @@
+numpy==1.19.2
+scipy==1.5.2
+tensorboard==2.4.1
+gudhi==3.4.1
+tqdm==4.59.0
+opencv-python==4.5.1.48
+matplotlib==3.3.4
+connected-components-3d==3.6.0
+SimpleITK==1.0.1
+attrdict==2.0.1
+tensorboardX==2.6.2.2
