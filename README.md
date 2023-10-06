@@ -1,5 +1,5 @@
 # Topology aware Segmentation using Euler Characteristic
-This is the official PyTorch implementation for the paper: [Robust Segmentation via Topology Violation Detection and Feature Synthesis](arxiv link), which is accepted in [MICCAI 2023](https://conferences.miccai.org/2023/en/).
+This is the official PyTorch implementation for the paper: Robust Segmentation via Topology Violation Detection and Feature Synthesis, which is accepted in [MICCAI 2023](https://conferences.miccai.org/2023/en/).
 
 Liu Li, Qiang Ma, Cheng Ouyang, Zeju Li, Qingjie Meng, Weitong Zhang, Mengyun Qiao, Vanessa Kyriakopoulou, Joseph V. Hajnal, Daniel Rueckert and Bernhard Kainz.
 
@@ -19,7 +19,7 @@ If you want to train and test on a new dataset, please revise the preprocess and
 
 
 ## Pipeline
-![](figure/[pipeline.pdf])
+![](figure/pipeline.pdf)
 
 
 
