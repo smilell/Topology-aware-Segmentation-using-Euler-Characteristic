@@ -23,7 +23,7 @@ If you want to train and test on a new dataset, please revise the preprocess and
 
 
 
-### Training
+## Training
 The training process is in two stages. Here we give a simple case to train and test on CREMI dataset, with model name ```EC_1```. 
 All configurations for training and test can be set in ```./config.json```.
 
@@ -78,7 +78,7 @@ In order to save GPU memory and shorten training time, we first generate an offl
     ```--model``` The directory to save trained model parameters
 
 
-### Test
+## Test
 - To end-to-end test and save the prediction results from both stages, please run 
     ```
     python main.py --phase='test' --test='./data/cremi_2d/test/image/' --test_seg='./data/cremi_2d/test/label/' --trained_model_pre='./model/EC_1/pre/' --trained_model_post='./model/EC_1/post/' --out='./output/EC_1/' --TBout='./output/EC_1/'
@@ -111,7 +111,7 @@ In order to save GPU memory and shorten training time, we first generate an offl
 
 
 
-### Plug-and-play: visualize topological error
+## Plug-and-play: visualize topological error
 
 - A plug-and-play module to test the topological errors between any predictions and ground-truth without training, please run: 
     ```
