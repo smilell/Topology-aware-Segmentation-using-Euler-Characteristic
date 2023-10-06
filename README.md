@@ -19,7 +19,7 @@ If you want to train and test on a new dataset, please revise the preprocess and
 
 
 ## Pipeline
-![](figure/pipeline.pdf)
+![](figure/pipeline.svg)
 
 
 
